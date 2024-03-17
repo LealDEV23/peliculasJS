@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+header {
+    width: 100%;
+}
+
+i {
+    font-size: 4rem;
+    color: #e92efb;
+}
+
+i:hover {
+    color: #440bd4;
+} 
+
+body {
+    background-image: url(../img/fondo.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
